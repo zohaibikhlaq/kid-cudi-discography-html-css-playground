@@ -1,0 +1,28 @@
+/************** Default styles ***********************/
+
+* {
+  box-sizing: border-box;
+}
+
+h1{
+  color: darkolivegreen;
+  line-height: 10px;
+}
+
+h4{
+  line-height: 10px;
+}
+
+img{
+  float: left;
+}
+h3{
+  line-height: 10px;
+}
+.cudi_sitting{
+  float: right;
+}
+
+body{
+  background-image: url("http://7-themes.com/data_images/out/22/6842694-kid-cudi-wallpaper.jpg");
+}
